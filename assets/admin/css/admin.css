@@ -1,0 +1,15 @@
+.lucky-wheel-shortcode-info {
+  margin-top: 30px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-left: 4px solid #4caf50;
+}
+
+.image-preview {
+  margin-top: 10px;
+}
+
+.wp-list-table th,
+.wp-list-table td {
+  vertical-align: middle;
+}
